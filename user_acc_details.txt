@@ -1,0 +1,52 @@
+
+User:1
+Account Type:Savings
+Account Number:PK137167387622
+Name:Muhammad Tayyab
+Contact:923005007204
+Address:Lahore
+Balance:2900.000000 Rs
+--------------------
+User:2
+Account Type:Current
+Account Number:PK847387124875
+Name:Ali Asad
+Contact:92345469879
+Address:Sailkot
+Balance:3000.000000 Rs
+--------------------
+User:3
+Account Type:Savings
+Account Number:PK393169368194
+Name:Mudassir
+Contact:9238947598
+Address:Lahore
+Balance:3300.000000 Rs
+--------------------
+
+User:4
+Account Type:Savings
+Account Number:PK866671397117
+Name:Muhammad Zoahaib
+Contact:92344982555
+Address:Sargodha
+Balance:6600.000000 Rs
+--------------------
+
+User:5
+Account Type:Current
+Account Number:PK332533383818
+Name:Qamar
+Contact:923245872439
+Address:Quetta
+Balance:2000.000000 Rs
+--------------------
+
+User:6
+Account Type:Current
+Account Number:PK825994145481
+Name:Muhammad Farhan
+Contact:03214318164
+Address:TechnoDevs
+Balance:1500.000000 Rs
+--------------------
